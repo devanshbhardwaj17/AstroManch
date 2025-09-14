@@ -1,2 +1,2 @@
 # AstroManch
-astro-manch.vercel.app
+https://astro-manch.vercel.app/
