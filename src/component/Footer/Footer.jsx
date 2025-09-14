@@ -34,7 +34,7 @@ export default function Footer() {
                     </li>
                     <li>
                         <NavLink
-                        to="/conactus"
+                        to="/contactus"
                         className={({isActive})=>`  ${isActive ? "  text-[#848080] underline hover:no-underline":" text-white"} hover:text-blue-600 hover:underline`}
                         >
                         Contact Us
