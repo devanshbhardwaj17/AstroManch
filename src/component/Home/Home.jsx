@@ -10,7 +10,7 @@ export default function Home() {
       <div className=' w-[900px]'>
         <Rotated/>
         <ServiceDiv/>
-        <p className=' font-[Arial]  font-bold bg-[#f4f4f4] rounded-xl shadow-lg text-2xl mt-5 text-center'>Customer Review and Astologer</p>
+        <p className=' font-[Arial]  font-bold bg-[#f4f4f4] rounded-xl shadow-lg text-2xl mt-5 text-center'>Customer Review and Astrologer</p>
         <CustomerReviewAndAstrologer/>
         <p className=' font-[Arial]  font-bold bg-[#f4f4f4] rounded-xl shadow-lg text-2xl mt-5 text-center'>Impotant Points</p>
         <ImpotnatPoint/>
