@@ -42,7 +42,7 @@ export default function Footer() {
                     </li>
                     <li>
                         <NavLink
-                        to="/help"
+                        to="/"
                         className={({isActive})=>`  ${isActive ? "  text-[#848080] underline hover:no-underline":" text-white"} hover:text-blue-600 hover:underline`}
                         >
                         Help
