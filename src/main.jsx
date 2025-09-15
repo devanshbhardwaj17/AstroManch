@@ -7,6 +7,7 @@ import App from './App.jsx'
 import Home from './component/Home/Home.jsx'
 import Aboutus from './component/AboutUS/Aboutus.jsx'
 import ContactUs from './component/ContactUS/ContactUs.jsx'
+import DenikPanchang from './component/Home/DenikPanchang/DenikPanchang.jsx'
 
 
 const router=createBrowserRouter(
@@ -15,7 +16,7 @@ const router=createBrowserRouter(
       <Route path='' element={<Home/>}/>
       <Route path='/aboutus' element={<Aboutus/>}/>
       <Route path='/contactus' element={<ContactUs/>}/>
-
+      <Route path='/denikpanchang' element={<DenikPanchang/>}/>
     </Route>
   )
 )
