@@ -7,7 +7,7 @@ export default function Header() {
         <div className=' flex flex-wrap justify-between items-center w-[900px]'>
             <div>
                 <h1 className=' text-white text-4xl font-[Arial] font-bold'>AstroManch</h1>
-                <ul className=' flex flex-wrap gap-5'>
+                <ul className=' flex flex-wrap gap-5 '>
                     <li>
                         <NavLink 
                         to="/"
