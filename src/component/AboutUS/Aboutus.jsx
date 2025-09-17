@@ -14,7 +14,7 @@ export default function Aboutus() {
         title="WHO WE ARE ?"
         innertext={
         <p className=' text-center'>
-          <span className=' font-bold text-xl'>AstroManch</span > is a personal astrology platform of <span  className=' font-bold text-xl'>Shree Shubh am Mishra Ji</span>. Shubham Mishra is an expert Vedic Astrologer, Tarot reader, Numerologist, Vastu expert. AstroManch lets you connect with Shubham Mishra over call and chat and get answers to all your problems.
+          <span className=' font-bold text-xl'>AstroManch</span > is a personal astrology platform of <span  className=' font-bold text-xl'>Shree Shubham Mishra Ji</span>. Shubham Mishra is an expert Vedic Astrologer, Tarot reader, Numerologist, Vastu expert. AstroManch lets you connect with Shubham Mishra over call and chat and get answers to all your problems.
           <br /><br />
           From Kundli matching to Kundli predictions, on <span className=' font-bold'>AstroManch</span >, the visitor is to get the best future predictions across aspects like Marriage, Love, Career or Health and more.When using AstroManch, you can trust us for highly accurate, precise and well researched astrological content that would offset most of your worries.
         </p>}
