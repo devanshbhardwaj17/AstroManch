@@ -8,7 +8,6 @@ import { NavLink } from 'react-router-dom'
 
 
 
-
 export default function ServiceDiv() {
   return (
     <div className=' mt-1 py-3'>

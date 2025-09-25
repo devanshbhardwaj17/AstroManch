@@ -1,4 +1,5 @@
   import { useState } from "react";
+import { BsArrowLeftCircle, BsArrowRightCircle } from "react-icons/bs";
 
   function Star({ filled }) {
     return (
@@ -120,15 +121,15 @@
           <div className="mt-4 flex justify-between absolute w-full px-2">
           <button
             onClick={prevSlide}
-            className="px-2 bg-gray-300 rounded-full hover:bg-gray-400 hover:text-white opacity-50"
-          >
-            P
+            className=" text-2xl bg-gray-300 rounded-full hover:bg-gray-400 hover:text-white opacity-50"
+          >       
+            <BsArrowLeftCircle/>     
           </button>
           <button
             onClick={nextSlide}
-            className="px-2 bg-gray-300 rounded-full hover:bg-gray-400 hover:text-white opacity-50 "
+            className=" text-2xl bg-gray-300 rounded-full hover:bg-gray-400 hover:text-white opacity-50 "
           >
-            N
+            <BsArrowRightCircle/>
           </button>
         </div>
         </div>
